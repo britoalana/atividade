@@ -1,0 +1,23 @@
+.title{
+    text-transform: capitalize;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+.form{
+    margin-left: 1rem;
+}
+.linha{
+    border: 1px solid black;
+    width: 500px;
+}
+
+#btn{
+    display: grid;
+    margin-top: 1rem;
+}
